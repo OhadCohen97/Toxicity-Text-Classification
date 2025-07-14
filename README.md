@@ -77,8 +77,8 @@ jupyter notebook ohad_cohen_solution.ipynb
 
 - `ohad_cohen_solution.ipynb`: Full notebook with code, feature engineering, model training, evaluation, and analysis.
 - `toxicity_toy_dataset.csv`: The dataset of labeled comments for training and testing.
-- `ActiveFence Take-Home Assignment - Ohad Cohen Report.pdf.pdf`: Project summary and discussion of methodology and results.
-- `ActiveFence_Take‑Home Assignment_Feature Engineering for Text Classification.pdf`: Assignment instructions.
+- `Take-Home Assignment - Ohad Cohen Report.pdf.pdf`: Project summary and discussion of methodology and results.
+- `Take‑Home Assignment_Feature Engineering for Text Classification.pdf`: Assignment instructions.
 
 ---
 
