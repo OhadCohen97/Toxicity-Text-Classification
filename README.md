@@ -12,8 +12,8 @@ This project implements a classical machine learning pipeline for detecting toxi
 .
 ├── ohad_cohen_solution.ipynb         
 ├── toxicity_toy_dataset.csv         
-├── ActiveFence Take-Home Assignment - Ohad Cohen Report.pdf.pdf  # Project report
-├── ActiveFence _ Take‑Home Assignment_ Featu re Engineering for Text Classification.pdf # Assignment brief
+├── Take-Home Assignment - Ohad Cohen Report.pdf.pdf  # Project report
+├── Take‑Home Assignment_ Feature_Engineering for Text Classification.pdf # Assignment brief
 ```
 
 ---
