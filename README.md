@@ -39,8 +39,9 @@ This project implements a classical machine learning pipeline for detecting toxi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/OhadCohen97/toxicity-text-classification.git
+cd Toxicity-Text-Classification
+
 ```
 
 ### 2. Install dependencies
