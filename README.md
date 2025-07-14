@@ -90,10 +90,4 @@ jupyter notebook ohad_cohen_solution.ipynb
 
 ---
 
-## License
-
-For educational use only.
-
----
-
 
