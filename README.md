@@ -13,7 +13,7 @@ This project implements a classical machine learning pipeline for detecting toxi
 ├── ohad_cohen_solution.ipynb         
 ├── toxicity_toy_dataset.csv         
 ├── Take-Home Assignment - Ohad Cohen Report.pdf.pdf  # Project report
-├── Take‑Home Assignment_ Feature_Engineering for Text Classification.pdf # Assignment brief
+├── Take‑Home Assignment_Feature_Engineering for Text Classification.pdf # Assignment brief
 ```
 
 ---
